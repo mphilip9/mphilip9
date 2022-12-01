@@ -5,7 +5,6 @@
 
 - 📫 How to reach me **max.philip1@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/maxwell-philip/](https://www.linkedin.com/in/maxwell-philip/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

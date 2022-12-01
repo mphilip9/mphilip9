@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maxwell Philip</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
-- 🔭 I’m currently working on [seed-bank](https://github.com/mphilip9/seed-bank)
+- 🔭 I’m a software engineer who is passionate about building applications that are robust and designed with the end user in mind. I also love gardening and controlled environment agriculture. Check out <a href="https://github.com/mphilip9/seed-bank"> Seed by Time </a> if you want to know what to plant every month!
 
 - 📫 How to reach me **max.philip1@gmail.com**
 
